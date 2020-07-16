@@ -1,8 +1,7 @@
 # Express, TypeORM and Typescript Example project
 
-This project is a basic starter project on how to use Express and TypeORM together using Typescript.
+express、typeorm、ts的一个整合搭建示例，使用mysql数据库。
 
-The project is using right now SQLite as its DB engine.
 
 ## Install
 
